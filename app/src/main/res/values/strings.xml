@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Time Intervals</string>
+    <string name="current_time_interval">Current time interval: %d h</string>
+    <string name="number_of_intervals_left">Number of intervals left: 1</string>
+</resources>
